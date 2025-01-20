@@ -15,7 +15,8 @@ This project exercises use of typescript and object-oriented programming to prod
 npm i
 
 ## Usage
-npm start
+npm start; 
+
 DEMO VIDEO: https://drive.google.com/file/d/1YuYYkBNEj4H83m8f4E1Q6lCk68-21Ljm/view
 
 ## License
